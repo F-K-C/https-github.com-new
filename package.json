@@ -1,0 +1,12 @@
+{
+  "name": "https-github.com-new",
+  "version": "1.0.0",
+  "description": "NodeJs e Express!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
